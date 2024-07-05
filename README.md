@@ -15,8 +15,8 @@ Internal is a bot that helps you look for Internal game. Whether you want to boo
 
 ## Features
 
-- **Interactive Gameplay:** Engage with the bot in a variety of fun games.
-- **User-Friendly Interface:** Easy to use commands and intuitive design.
+- **Interactive Gameplay**: Engage with the bot in a variety of fun games.
+- **User-Friendly Interface**: Easy to use commands and intuitive design.
 
 ## Usage
 
@@ -46,3 +46,5 @@ Internal bot will save players data: to show their statistics on a server if the
 - `Hits` and `Headshots` - show all hits and headshots on others players. (**?**)
 - `All Shots` - show all shots. (**?**)
 - `Overall Score` - points for kills, bringing flags, etc - will be compatible with CTF + TS. (**?**)
+
+**Note: These features are planned for future implementation and may not be available immediately.**
