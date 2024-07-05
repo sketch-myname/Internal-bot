@@ -41,6 +41,6 @@ Internal bot will save players data: to show their statistics on a server if the
 **Among other things, it will be there**:
 - `winratio` and `loseratio` - ratio of games won and lost. (**?**)
 - `All Internal Games Played` - number of games Internal. (**?**)
-- `Hits` and `Headshots` - show all hits and headshots. (**?**)
-- `All Shots` - show all shots on others players. (**?**)
+- `Hits` and `Headshots` - show all hits and headshots on others players. (**?**)
+- `All Shots` - show all shots. (**?**)
 - `Overall Score` - points for kills, bringing flags, etc - will be compatible with CTF + TS. (**?**)
