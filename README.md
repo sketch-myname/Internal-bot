@@ -2,7 +2,7 @@
 
 An Internals games with more fun!
 
-## Table of Contents
+## Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
