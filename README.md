@@ -7,7 +7,7 @@ An Internals games with more fun!
 - [Features](#features)
 - [Usage](#usage)
 - [Contact](#contact)
-- [In The Future](#inthefuture)
+- [In The Future](#in_the_future)
 
 ## Introduction
 
