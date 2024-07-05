@@ -1,6 +1,6 @@
 # Internal
 
-An Internals games with more fun!
+An Internals games with more fun on Urban Terror!
 
 ## Contents
 - [Introduction](#introduction)
