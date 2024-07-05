@@ -10,7 +10,7 @@ An Internals game with more fun!
 
 ## Introduction
 
-Internal-bot is a bot that helps you look for Internal game. Whether you want to boost team morale or just have fun, this bot is for you!
+Internal is a bot that helps you look for Internal game. Whether you want to boost team morale or just have fun, this bot is for you!
 
 ## Features
 
