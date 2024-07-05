@@ -34,7 +34,9 @@ For any inquiries or issues, please contact me at [zanxytech@proton.me](mailto:z
 
 ## In The Future
 
-Internal bot will save players data: show their statistics on a server if they invoke the appropriate cmd. maybe I will do it someday, dont trust me 100% ok?)
+Internal bot will save players data: show their statistics on a server if they invoke the appropriate cmd.
+(maybe I will do it someday, dont trust me 100% ok?)
+
 **Among other things, it will be there**:
 - `winratio` and `loseratio` (**?**)
 - `Internal Games Played` (**?**)
