@@ -1,6 +1,6 @@
 # Internal
 
-An Internals game with more fun!
+An Internals games with more fun!
 
 ## Table of Contents
 - [Introduction](#introduction)
