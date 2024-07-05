@@ -7,6 +7,7 @@ An Internals games with more fun!
 - [Features](#features)
 - [Usage](#usage)
 - [Contact](#contact)
+- [In The Future](#inthefuture)
 
 ## Introduction
 
@@ -30,3 +31,12 @@ Once the bot is up and running, you can start interacting with it using the foll
 ## Contact
 
 For any inquiries or issues, please contact me at [zanxytech@proton.me](mailto:zanxytech@proton.me) or via Discord [.zanxy_](https://discord.com/users/495227326305665024)
+
+## In The Future
+
+Internal bot will save players data: show their statistics on a server if they invoke the appropriate cmd. maybe I will do it someday, dont trust me 100% ok?)
+**Among other things, it will be there**:
+- `winratio` and `loseratio` (**?**)
+- `Internal Games Played` (**?**)
+- `Hits` and `Headshots` (**?**)
+- `All Shots` (**?**)
