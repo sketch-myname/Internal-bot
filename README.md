@@ -1,4 +1,4 @@
-# Internal-bot
+# Internal
 
 An Internals game with more fun!
 
