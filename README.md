@@ -28,6 +28,8 @@ Once the bot is up and running, you can start interacting with it using the foll
 - **ADMIN CMD** `!r`: Moves players to Red channel. | **Example**: `!r Lorem Ipsum Dolor Sit Amet` (without @)
 - **ADMIN CMD** `!b`: Moves players to Blue channel. | **Example**: `!b Lorem Ipsum Dolor Sit Amet` (without @)
 
+- **Internal bot automatically deletes messages on the Internal channel if players dont write cmds.**
+
 ## Contact
 
 For any inquiries or issues, please contact me at [zanxytech@proton.me](mailto:zanxytech@proton.me) or via Discord [.zanxy_](https://discord.com/users/495227326305665024)
