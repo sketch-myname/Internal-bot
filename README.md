@@ -1,6 +1,6 @@
 # Internal
 
-An Internals game with more fun!
+An Internals game with more fun written in Python
 
 ## Table of Contents
 - [Introduction](#introduction)
