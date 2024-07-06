@@ -6,7 +6,6 @@ An Internals games with more fun on Urban Terror!
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
 - [Contact](#contact)
 - [In The Future](#in-the-future)
 
@@ -33,8 +32,6 @@ Once the bot is up and running, you can start interacting with it using the foll
 - [`!stats`](#in-the-future): Coming Soon (maybe)
 
 - **Internal bot automatically deletes messages on the Internal channel  if players writes messages.**
-
-## Installation
 
 ## Contact
 
