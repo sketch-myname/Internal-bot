@@ -36,14 +36,6 @@ Once the bot is up and running, you can start interacting with it using the foll
 
 ## Installation
 
-Download the release file, modify it, enter the appropriate variables, correct channel IDs, role exempt and your bot token.
-
-Then turn on cmd and type the command to enable the bot:
-
-`py -3 Internal-bot.py`: **or smth like that**.
-
-
-
 ## Contact
 
 For any inquiries or issues, please contact me at ~[zanxytech@proton.me](mailto:zanxytech@proton.me)~ or via Discord ~[.zanxy_](https://discord.com/users/495227326305665024)~
