@@ -38,7 +38,7 @@ Once the bot is up and running, you can start interacting with it using the foll
 
 ## Contact
 
-For any inquiries or issues, please contact me at ~[zanxytech@proton.me](mailto:zanxytech@proton.me)~ or via Discord ~[.zanxy_](https://discord.com/users/495227326305665024)~
+For any inquiries or issues, please contact me at [zanxytech@proton.me](mailto:zanxytech@proton.me) or via Discord [.zanxy_](https://discord.com/users/495227326305665024)
 
 ## In The Future
 
