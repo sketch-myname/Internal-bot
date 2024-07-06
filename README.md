@@ -36,7 +36,7 @@ Once the bot is up and running, you can start interacting with it using the foll
 
 ## Installation
 
-Download the release file, modify it, enter the appropriate variables, correct channel IDs, role exempt.
+Download the release file, modify it, enter the appropriate variables, correct channel IDs, role exempt and your bot token.
 
 Then turn on cmd and type the command to enable the bot:
 
