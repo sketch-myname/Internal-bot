@@ -18,6 +18,7 @@ Internal is a bot that helps you look for Internal game. Whether you want to boo
 - **Interactive Gameplay**: Engage with the bot in a variety of fun games.
 - **User-Friendly Interface**: Easy to use commands and intuitive design.
 - **Security Measures**: Security in the form of protective codes.
+- **Advanced Functions**: Bot uses advanced functions for each cmd.
 
 ## Usage
 
