@@ -39,7 +39,7 @@ For any inquiries or issues, please contact me at [zanxytech@proton.me](mailto:z
 
 ## In The Future
 
-Internal bot will save players data: to show their statistics on a server if they invoke the appropriate cmd.
+Internal bot will save players data from UrT: to show their statistics on a specific server if they invoke the appropriate cmd.
 
 (maybe I will do it someday, dont trust me 100% ok?)
 
