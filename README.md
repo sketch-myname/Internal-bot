@@ -28,11 +28,12 @@ Once the bot is up and running, you can start interacting with it using the foll
 - `!vote`: Starts voting for maps (**available_maps**)
 - **ADMIN CMD** `!close`: Closes map vote and deletes message.
 - `!setup`: set up Red, Blue, Voting channels and a role with the authority to write in the voting channel.
+- `!switch`: disable automatic deletion of msg that do not contain cmds from the available_cmds list
 - **ADMIN CMD** `!r`: Moves players to Red channel. | **Example**: `!r Lorem Ipsum Dolor Sit Amet` (without @)
 - **ADMIN CMD** `!b`: Moves players to Blue channel. | **Example**: `!b Lorem Ipsum Dolor Sit Amet` (without @)
 - [`!stats`](#in-the-future): Coming Soon (-)
 
-- **Internal bot automatically deletes messages on the Voting channel if players writes messages. You can disable it with the `!switch` command**
+- **Internal bot automatically deletes messages on the Voting channel if players writes messages.**
 
 ## Contact
 
