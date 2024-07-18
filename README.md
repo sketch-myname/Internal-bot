@@ -24,13 +24,13 @@ Internal is a bot that helps you look for Internal game. Whether you want to boo
 
 Once the bot is up and running, you can start interacting with it using the following cmds:
 
-- `!internal`: Starts the Internal game at the specified time
+- `!internal`: Starts the Internal game at the specified time.
 - `!vote`: Starts voting for maps (**available_maps**)
 - **ADMIN CMD** `!close`: Closes map vote and deletes message.
 - `!setup`: set up Red, Blue, Voting channels and a role with the authority to write in the voting channel.
 - **ADMIN CMD** `!r`: Moves players to Red channel. | **Example**: `!r Lorem Ipsum Dolor Sit Amet` (without @)
 - **ADMIN CMD** `!b`: Moves players to Blue channel. | **Example**: `!b Lorem Ipsum Dolor Sit Amet` (without @)
-- [`!stats`](#in-the-future): Coming Soon (maybe)
+- [`!stats`](#in-the-future): Coming Soon (-)
 
 - **Internal bot automatically deletes messages on the Internal channel  if players writes messages.**
 
@@ -40,9 +40,7 @@ For any inquiries or issues, please contact me at [zanxytech@proton.me](mailto:z
 
 ## In The Future
 
-Internal bot will save players data from UrT: to show their statistics on a specific server if they invoke the appropriate cmd.
-
-(maybe I will do it someday, dont trust me 100% ok?)
+Internal bot will save players data from UrT server: to show their statistics on a specific server if they invoke the appropriate cmd.
 
 **Among other things, it will be there**:
 - `winratio` and `loseratio` - ratio of player's won and lost games. (**?**)
