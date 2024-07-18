@@ -32,7 +32,7 @@ Once the bot is up and running, you can start interacting with it using the foll
 - **ADMIN CMD** `!b`: Moves players to Blue channel. | **Example**: `!b Lorem Ipsum Dolor Sit Amet` (without @)
 - [`!stats`](#in-the-future): Coming Soon (-)
 
-- **Internal bot automatically deletes messages on the Internal channel  if players writes messages.**
+- **Internal bot automatically deletes messages on the Voting channel if players writes messages. You can disable it with the `!switch` command**
 
 ## Contact
 
