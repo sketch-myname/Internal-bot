@@ -2,12 +2,7 @@
 
 An Internals games with more fun on Urban Terror!
 
-## Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Contact](#contact)
-- [Pre-Release](#pre-release)
+[Introduction](#introduction) • [Features](#features) • [Usage](#usage) • [Contact](#contact) • [Pre-Release](#pre-release)
 
 ## Introduction
 
