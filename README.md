@@ -3,7 +3,11 @@
 An Internals games with more fun on Urban Terror!
 
 <p align="center">
-[Introduction](#introduction) • [Features](#features) • [Usage](#usage) • [Contact](#contact) • [Pre-Release](#pre-release)
+  <a href="#introduction">Introduction</a> • 
+  <a href="#features">Features</a> • 
+  <a href="#usage">Usage</a> • 
+  <a href="#support">Support</a> • 
+  <a href="#pre-release">Pre-Release</a>
 </p>
 
 ## Introduction
@@ -31,10 +35,10 @@ Once the bot is up and running, you can start interacting with it using the foll
 
 - **Internal bot automatically deletes messages on the Voting channel if players writes messages.**
 
-## Contact
+## Support
 
 For any inquiries or issues, please contact me at [zanxytech@proton.me](mailto:zanxytech@proton.me) or via Discord [.zanxy_](https://discord.com/users/495227326305665024)
 
 ## Pre-Release
 
-Soon I will release version **1.0.1**, which will include additional cmds to set up the bot.
+Soon I will release version **1.0.1**, which will include additional cmds to set up the bot. This version will not be tested for searching bugs.
