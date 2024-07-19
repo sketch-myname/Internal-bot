@@ -27,7 +27,7 @@ Once the bot is up and running, you can start interacting with it using the foll
 
 - `!internal`: Starts the Internal game at the specified time.
 - `!setup`: set up Red, Blue, Voting channels and role with permission to write on the voting channel. (**1.0.1**)
-- `!switch`: disable automatic deletion of msg that do not contain cmds from **available_cmds** list. (**1.0.1**)
+- `!switch`: disable automatic deletion of msg that do not contain cmds from **available_cmds** list. (**[1.0.1](#pre-release)**)
 - `!vote`: Starts voting for maps from **available_maps** list.
 - **ADMIN CMD** `!close`: Closes map vote and deletes message.
 - **ADMIN CMD** `!r`: Moves players to Red channel. | **Example**: `!r Lorem Ipsum Dolor Sit Amet` (without @)
