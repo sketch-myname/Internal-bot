@@ -7,7 +7,7 @@ An Internals games with more fun on Urban Terror!
 - [Features](#features)
 - [Usage](#usage)
 - [Contact](#contact)
-- [Versions](#versions)
+- [Pre-Release](#pre-release)
 
 ## Introduction
 
@@ -38,6 +38,6 @@ Once the bot is up and running, you can start interacting with it using the foll
 
 For any inquiries or issues, please contact me at [zanxytech@proton.me](mailto:zanxytech@proton.me) or via Discord [.zanxy_](https://discord.com/users/495227326305665024)
 
-## Versions
+## Pre-Release
 
 Soon I will release version **1.0.1**, which will include additional cmds to set up the bot.
