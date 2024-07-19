@@ -26,7 +26,7 @@ Internal is a bot that helps you look for Internal game. Whether you want to boo
 Once the bot is up and running, you can start interacting with it using the following cmds:
 
 - `!internal`: Starts the Internal game at the specified time.
-- `!setup`: set up Red, Blue, Voting channels and role with permission to write on the voting channel. (**1.0.1**)
+- `!setup`: set up Red, Blue, Voting channels and role with permission to write on the voting channel. (**[1.0.1](#pre-release)**)
 - `!switch`: disable automatic deletion of msg that do not contain cmds from **available_cmds** list. (**[1.0.1](#pre-release)**)
 - `!vote`: Starts voting for maps from **available_maps** list.
 - **ADMIN CMD** `!close`: Closes map vote and deletes message.
