@@ -1,5 +1,3 @@
-# A source code, because some random kid from wG sroldovich asked then let him have something from life, let him learn from the fully God of sketchmyname aka HopeCore!
-
 import discord
 from discord.ext import commands
 import asyncio
